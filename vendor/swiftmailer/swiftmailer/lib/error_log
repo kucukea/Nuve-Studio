@@ -1,0 +1,12 @@
+[09-Sep-2019 02:38:57 America/Chicago] PHP Warning:  system(): Cannot execute a blank command in /home2/nuvestudio/public_html/vendor/swiftmailer/swiftmailer/lib/autoload.php on line 8
+[09-Sep-2019 02:38:57 America/Chicago] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home2/nuvestudio/public_html/vendor/swiftmailer/swiftmailer/lib/autoload.php:8) in /home2/nuvestudio/public_html/vendor/swiftmailer/swiftmailer/lib/autoload.php on line 15
+[09-Sep-2019 02:38:57 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined function eregi() in /home2/nuvestudio/public_html/vendor/swiftmailer/swiftmailer/lib/autoload.php:98
+Stack trace:
+#0 {main}
+  thrown in /home2/nuvestudio/public_html/vendor/swiftmailer/swiftmailer/lib/autoload.php on line 98
+[09-Sep-2019 02:39:11 America/Chicago] PHP Warning:  system(): Cannot execute a blank command in /home2/nuvestudio/public_html/vendor/swiftmailer/swiftmailer/lib/autoload.php on line 8
+[09-Sep-2019 02:39:11 America/Chicago] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home2/nuvestudio/public_html/vendor/swiftmailer/swiftmailer/lib/autoload.php:8) in /home2/nuvestudio/public_html/vendor/swiftmailer/swiftmailer/lib/autoload.php on line 15
+[09-Sep-2019 02:39:11 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined function eregi() in /home2/nuvestudio/public_html/vendor/swiftmailer/swiftmailer/lib/autoload.php:98
+Stack trace:
+#0 {main}
+  thrown in /home2/nuvestudio/public_html/vendor/swiftmailer/swiftmailer/lib/autoload.php on line 98
